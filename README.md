@@ -7,11 +7,11 @@ Permite experimentar con pesos, entradas y sesgo, visualizando cómo se calcula 
 
 ---
 
-## 🚀 Características
+## Características
 
 La aplicación está organizada en **tres pestañas**, cada una representando un modelo incremental de neurona:
 
-### 🔹 Una entrada
+### Una entrada
 - Una entrada `x`
 - Un peso `w`
 - Salida calculada como:
@@ -22,7 +22,7 @@ La aplicación está organizada en **tres pestañas**, cada una representando un
 
 ---
 
-### 🔹 Dos entradas
+### Dos entradas
 - Entradas: `x₀`, `x₁`
 - Pesos: `w₀`, `w₁`
 - Salida:
@@ -33,7 +33,7 @@ La aplicación está organizada en **tres pestañas**, cada una representando un
 
 ---
 
-### 🔹 Tres entradas y sesgo
+### Tres entradas y sesgo
 - Entradas: `x₀`, `x₁`, `x₂`
 - Pesos: `w₀`, `w₁`, `w₂`
 - Sesgo: `b`
