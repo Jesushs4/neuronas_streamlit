@@ -42,3 +42,5 @@ La aplicación está organizada en **tres pestañas**, cada una representando un
   \[
   y = w_0 x_0 + w_1 x_1 + w_2 x_2 + b
   \]
+
+## [Enlace a la página web](https://holaneuronajhs.streamlit.app/)
